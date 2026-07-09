@@ -1,0 +1,15 @@
+[Unit]
+Description=Discord Bot Commercial Template
+After=network.target postgresql.service redis.service
+
+[Service]
+Type=simple
+User=discordbot
+WorkingDirectory=/opt/discord-bot-commercial-template
+EnvironmentFile=/opt/discord-bot-commercial-template/.env
+ExecStart=/opt/discord-bot-commercial-template/.venv/bin/python -m app.main
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
