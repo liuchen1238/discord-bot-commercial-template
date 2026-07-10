@@ -1,6 +1,4 @@
 """Data access for the Guild model."""
-from sqlalchemy import select
-
 from app.database.session import get_session
 from app.models.guild import Guild
 
