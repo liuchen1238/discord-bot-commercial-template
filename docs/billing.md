@@ -1,5 +1,7 @@
 # 計費系統
 
+[English](billing.en.md) | 繁體中文
+
 ## 流程
 
 1. 使用者在 Discord 執行 `/upgrade`（[app/cogs/billing.py](../app/cogs/billing.py)）。

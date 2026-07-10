@@ -1,5 +1,7 @@
 # Prompt: 修復正式環境 Bug
 
+[English](fix-production-bug.en.md) | 繁體中文
+
 用途：標準化修 bug 的流程，避免 AI agent 亂改範圍外的程式碼。
 
 ```

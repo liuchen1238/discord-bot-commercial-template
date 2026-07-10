@@ -1,5 +1,7 @@
 # 架構總覽
 
+[English](architecture.en.md) | 繁體中文
+
 ## 分層設計
 
 ```

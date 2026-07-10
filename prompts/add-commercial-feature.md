@@ -1,5 +1,7 @@
 # Prompt: 新增付費方案功能
 
+[English](add-commercial-feature.en.md) | 繁體中文
+
 用途：新增一個只有特定訂閱方案（Pro/Enterprise）才能使用的功能。
 
 ```

@@ -1,5 +1,7 @@
 # Prompt: 程式碼審查檢查清單
 
+[English](code-review.en.md) | 繁體中文
+
 用途：審查一個 PR 或一段 diff 是否符合本專案架構慣例。
 
 ```

@@ -1,5 +1,7 @@
 # 管理後台 API
 
+[English](api.en.md) | 繁體中文
+
 啟動：
 
 ```bash

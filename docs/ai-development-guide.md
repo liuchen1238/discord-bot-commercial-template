@@ -1,5 +1,7 @@
 # AI 輔助開發指南
 
+[English](ai-development-guide.en.md) | 繁體中文
+
 本專案設計為方便 AI coding agent（如 Claude Code）協作開發。`prompts/` 目錄下有幾個常用任務的提示詞範本：
 
 - [prompts/add-commercial-feature.md](../prompts/add-commercial-feature.md)：新增一個需要付費方案才能使用的功能。

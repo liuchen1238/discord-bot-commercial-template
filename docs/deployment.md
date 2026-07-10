@@ -1,5 +1,7 @@
 # 部署指南
 
+[English](deployment.en.md) | 繁體中文
+
 ## Docker Compose（開發/小型正式環境）
 
 ```bash

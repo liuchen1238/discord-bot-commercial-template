@@ -1,5 +1,7 @@
 # Prompt: 新增外掛
 
+[English](add-plugin.en.md) | 繁體中文
+
 用途：以外掛（plugin）形式新增一組獨立的指令，不動到核心程式碼。
 
 ```

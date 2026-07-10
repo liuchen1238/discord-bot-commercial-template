@@ -1,5 +1,7 @@
 # Discord Bot Commercial Template
 
+[English](README.en.md) | 繁體中文
+
 一個可直接拿來當作**商業化 Discord Bot** 起點的專案模板，內建：
 
 - Discord.py Cog 架構 + 分層 Service/Repository 設計

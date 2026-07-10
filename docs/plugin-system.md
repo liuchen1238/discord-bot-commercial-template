@@ -1,5 +1,7 @@
 # 外掛（Plugin）系統
 
+[English](plugin-system.en.md) | 繁體中文
+
 ## 結構
 
 每個外掛是 `app/plugins/<plugin_name>/` 底下的一個資料夾，包含：
